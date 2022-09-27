@@ -18,3 +18,17 @@ header{
     display: flex;
     align-items: center;
 }
+.tabs{
+    margin-left: 20px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.tabs .tab-button{
+    text-decoration: none;
+    background-color: white;
+    height: 17.5px;
+    padding: 17.5px 6px;
+    color: black;
+    
+}
